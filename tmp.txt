@@ -1,0 +1,214 @@
+990 instances of class ape with average precision: 0.9378
+1025 instances of class can with average precision: 1.0000
+1009 instances of class cat with average precision: 0.9180
+1031 instances of class driller with average precision: 0.9961
+960 instances of class duck with average precision: 0.9644
+994 instances of class eggbox with average precision: 0.9663
+761 instances of class glue with average precision: 0.9242
+1014 instances of class holepuncher with average precision: 0.9865
+990 instances of class ape with ADD accuracy: 0.5990
+1025 instances of class can with ADD accuracy: 0.9317
+1009 instances of class cat with ADD accuracy: 0.6680
+1031 instances of class driller with ADD accuracy: 0.9651
+960 instances of class duck with ADD accuracy: 0.7240
+994 instances of class eggbox with ADD accuracy: 0.5050
+761 instances of class glue with ADD accuracy: 0.6675
+1014 instances of class holepuncher with ADD accuracy: 0.8462
+990 instances of class ape with ADD-S-Accuracy: 0.8394
+1025 instances of class can with ADD-S-Accuracy: 0.9932
+1009 instances of class cat with ADD-S-Accuracy: 0.8781
+1031 instances of class driller with ADD-S-Accuracy: 0.9952
+960 instances of class duck with ADD-S-Accuracy: 0.9396
+994 instances of class eggbox with ADD-S-Accuracy: 0.9487
+761 instances of class glue with ADD-S-Accuracy: 0.8647
+1014 instances of class holepuncher with ADD-S-Accuracy: 0.9852
+990 instances of class ape with 5cm-5degree-Accuracy: 0.4838
+1025 instances of class can with 5cm-5degree-Accuracy: 0.7034
+1009 instances of class cat with 5cm-5degree-Accuracy: 0.5411
+1031 instances of class driller with 5cm-5degree-Accuracy: 0.7478
+960 instances of class duck with 5cm-5degree-Accuracy: 0.5729
+994 instances of class eggbox with 5cm-5degree-Accuracy: 0.3169
+761 instances of class glue with 5cm-5degree-Accuracy: 0.3495
+1014 instances of class holepuncher with 5cm-5degree-Accuracy: 0.6252
+class ape with Translation Differences in mm: Mean: 9.8786 and Std: 9.4805
+class can with Translation Differences in mm: Mean: 8.8051 and Std: 11.2637
+class cat with Translation Differences in mm: Mean: 12.1237 and Std: 9.6699
+class driller with Translation Differences in mm: Mean: 8.9864 and Std: 6.3383
+class duck with Translation Differences in mm: Mean: 7.2151 and Std: 5.6806
+class eggbox with Translation Differences in mm: Mean: 11.5178 and Std: 9.4602
+class glue with Translation Differences in mm: Mean: 14.8311 and Std: 15.3923
+class holepuncher with Translation Differences in mm: Mean: 8.1800 and Std: 6.9390
+class ape with Rotation Differences in degree: Mean: 7.5585 and Std: 9.8211
+class can with Rotation Differences in degree: Mean: 5.2892 and Std: 11.8378
+class cat with Rotation Differences in degree: Mean: 5.5840 and Std: 5.3310
+class driller with Rotation Differences in degree: Mean: 4.1843 and Std: 3.8900
+class duck with Rotation Differences in degree: Mean: 9.0131 and Std: 21.6588
+class eggbox with Rotation Differences in degree: Mean: 59.6461 and Std: 77.7272
+class glue with Rotation Differences in degree: Mean: 8.9582 and Std: 12.4067
+class holepuncher with Rotation Differences in degree: Mean: 5.1961 and Std: 4.6902
+990 instances of class ape with 2d-projection-Accuracy: 0.8182
+1025 instances of class can with 2d-projection-Accuracy: 0.9200
+1009 instances of class cat with 2d-projection-Accuracy: 0.8345
+1031 instances of class driller with 2d-projection-Accuracy: 0.8429
+960 instances of class duck with 2d-projection-Accuracy: 0.8219
+994 instances of class eggbox with 2d-projection-Accuracy: 0.5664
+761 instances of class glue with 2d-projection-Accuracy: 0.6767
+1014 instances of class holepuncher with 2d-projection-Accuracy: 0.8738
+990 instances of class ape with ADD(-S)-Accuracy: 0.5990
+1025 instances of class can with ADD(-S)-Accuracy: 0.9317
+1009 instances of class cat with ADD(-S)-Accuracy: 0.6680
+1031 instances of class driller with ADD(-S)-Accuracy: 0.9651
+960 instances of class duck with ADD(-S)-Accuracy: 0.7240
+994 instances of class eggbox with ADD(-S)-Accuracy: 0.9487
+761 instances of class glue with ADD(-S)-Accuracy: 0.8647
+1014 instances of class holepuncher with ADD(-S)-Accuracy: 0.8462
+class ape with Transformed Point Distances in mm: Mean: 10.7902 and Std: 9.7435
+class can with Transformed Point Distances in mm: Mean: 10.0953 and Std: 12.6246
+class cat with Transformed Point Distances in mm: Mean: 12.8262 and Std: 9.8457
+class driller with Transformed Point Distances in mm: Mean: 10.2271 and Std: 6.5308
+class duck with Transformed Point Distances in mm: Mean: 9.2323 and Std: 9.4403
+class eggbox with Transformed Point Distances in mm: Mean: 40.5694 and Std: 41.5947
+class glue with Transformed Point Distances in mm: Mean: 15.9722 and Std: 15.8288
+class holepuncher with Transformed Point Distances in mm: Mean: 9.1479 and Std: 7.1107
+class ape with Transformed Symmetric Point Distances in mm: Mean: 5.5424 and Std: 4.1129
+class can with Transformed Symmetric Point Distances in mm: Mean: 6.3270 and Std: 6.4844
+class cat with Transformed Symmetric Point Distances in mm: Mean: 6.9108 and Std: 4.2080
+class driller with Transformed Symmetric Point Distances in mm: Mean: 6.4955 and Std: 2.7527
+class duck with Transformed Symmetric Point Distances in mm: Mean: 4.6153 and Std: 2.3589
+class eggbox with Transformed Symmetric Point Distances in mm: Mean: 7.0606 and Std: 3.5441
+class glue with Transformed Symmetric Point Distances in mm: Mean: 7.9873 and Std: 6.6317
+class holepuncher with Transformed Symmetric Point Distances in mm: Mean: 4.9746 and Std: 2.3457
+class ape with Mixed Transformed Point Distances in mm: Mean: 10.7902 and Std: 9.7435
+class can with Mixed Transformed Point Distances in mm: Mean: 10.0953 and Std: 12.6246
+class cat with Mixed Transformed Point Distances in mm: Mean: 12.8262 and Std: 9.8457
+class driller with Mixed Transformed Point Distances in mm: Mean: 10.2271 and Std: 6.5308
+class duck with Mixed Transformed Point Distances in mm: Mean: 9.2323 and Std: 9.4403
+class eggbox with Mixed Transformed Point Distances in mm: Mean: 7.0606 and Std: 3.5441
+class glue with Mixed Transformed Point Distances in mm: Mean: 7.9873 and Std: 6.6317
+class holepuncher with Mixed Transformed Point Distances in mm: Mean: 9.1479 and Std: 7.1107
+mAP: 0.9616
+ADD: 0.7383
+ADD-S: 0.9305
+5cm_5degree: 0.5426
+TranslationErrorMean_in_mm: 10.1922
+TranslationErrorStd_in_mm: 9.2781
+RotationErrorMean_in_degree: 13.1787
+RotationErrorStd_in_degree: 18.4203
+2D-Projection: 0.7943
+Summed_Translation_Rotation_Error: 51.0693
+ADD(-S): 0.8184
+AveragePointDistanceMean_in_mm: 14.8576
+AveragePointDistanceStd_in_mm: 14.0899
+AverageSymmetricPointDistanceMean_in_mm: 6.2392
+AverageSymmetricPointDistanceStd_in_mm: 4.0548
+MixedAveragePointDistanceMean_in_mm: 9.6709
+MixedAveragePointDistanceStd_in_mm: 8.1839
+
+
+phi-1
+
+990 instances of class ape with average precision: 0.9421
+1025 instances of class can with average precision: 1.0000
+1009 instances of class cat with average precision: 0.9278
+1031 instances of class driller with average precision: 0.9960
+960 instances of class duck with average precision: 0.9661
+994 instances of class eggbox with average precision: 0.9707
+761 instances of class glue with average precision: 0.9380
+1014 instances of class holepuncher with average precision: 0.9851
+990 instances of class ape with ADD accuracy: 0.5657
+1025 instances of class can with ADD accuracy: 0.9454
+1009 instances of class cat with ADD accuracy: 0.6878
+1031 instances of class driller with ADD accuracy: 0.9651
+960 instances of class duck with ADD accuracy: 0.6635
+994 instances of class eggbox with ADD accuracy: 0.4628
+761 instances of class glue with ADD accuracy: 0.6518
+1014 instances of class holepuncher with ADD accuracy: 0.8353
+990 instances of class ape with ADD-S-Accuracy: 0.8414
+1025 instances of class can with ADD-S-Accuracy: 0.9941
+1009 instances of class cat with ADD-S-Accuracy: 0.8979
+1031 instances of class driller with ADD-S-Accuracy: 0.9952
+960 instances of class duck with ADD-S-Accuracy: 0.9344
+994 instances of class eggbox with ADD-S-Accuracy: 0.9467
+761 instances of class glue with ADD-S-Accuracy: 0.8962
+1014 instances of class holepuncher with ADD-S-Accuracy: 0.9773
+990 instances of class ape with 5cm-5degree-Accuracy: 0.3323
+1025 instances of class can with 5cm-5degree-Accuracy: 0.6907
+1009 instances of class cat with 5cm-5degree-Accuracy: 0.5332
+1031 instances of class driller with 5cm-5degree-Accuracy: 0.6149
+960 instances of class duck with 5cm-5degree-Accuracy: 0.2667
+994 instances of class eggbox with 5cm-5degree-Accuracy: 0.1690
+761 instances of class glue with 5cm-5degree-Accuracy: 0.0999
+1014 instances of class holepuncher with 5cm-5degree-Accuracy: 0.6105
+class ape with Translation Differences in mm: Mean: 10.5108 and Std: 9.9239
+class can with Translation Differences in mm: Mean: 8.6744 and Std: 11.5720
+class cat with Translation Differences in mm: Mean: 11.5830 and Std: 8.9430
+class driller with Translation Differences in mm: Mean: 9.1982 and Std: 6.5312
+class duck with Translation Differences in mm: Mean: 8.0718 and Std: 6.3817
+class eggbox with Translation Differences in mm: Mean: 12.4674 and Std: 11.4022
+class glue with Translation Differences in mm: Mean: 13.5477 and Std: 12.6923
+class holepuncher with Translation Differences in mm: Mean: 8.8227 and Std: 7.4698
+class ape with Rotation Differences in degree: Mean: 9.0290 and Std: 7.8924
+class can with Rotation Differences in degree: Mean: 5.1632 and Std: 9.9955
+class cat with Rotation Differences in degree: Mean: 5.6989 and Std: 5.9874
+class driller with Rotation Differences in degree: Mean: 5.2163 and Std: 6.6686
+class duck with Rotation Differences in degree: Mean: 9.6651 and Std: 12.0167
+class eggbox with Rotation Differences in degree: Mean: 61.3908 and Std: 76.5900
+class glue with Rotation Differences in degree: Mean: 20.0781 and Std: 31.3492
+class holepuncher with Rotation Differences in degree: Mean: 5.2606 and Std: 4.0278
+990 instances of class ape with 2d-projection-Accuracy: 0.7788
+1025 instances of class can with 2d-projection-Accuracy: 0.9102
+1009 instances of class cat with 2d-projection-Accuracy: 0.8523
+1031 instances of class driller with 2d-projection-Accuracy: 0.7769
+960 instances of class duck with 2d-projection-Accuracy: 0.8052
+994 instances of class eggbox with 2d-projection-Accuracy: 0.4678
+761 instances of class glue with 2d-projection-Accuracy: 0.5545
+1014 instances of class holepuncher with 2d-projection-Accuracy: 0.8718
+990 instances of class ape with ADD(-S)-Accuracy: 0.5657
+1025 instances of class can with ADD(-S)-Accuracy: 0.9454
+1009 instances of class cat with ADD(-S)-Accuracy: 0.6878
+1031 instances of class driller with ADD(-S)-Accuracy: 0.9651
+960 instances of class duck with ADD(-S)-Accuracy: 0.6635
+994 instances of class eggbox with ADD(-S)-Accuracy: 0.9467
+761 instances of class glue with ADD(-S)-Accuracy: 0.8962
+1014 instances of class holepuncher with ADD(-S)-Accuracy: 0.8353
+class ape with Transformed Point Distances in mm: Mean: 11.6183 and Std: 10.0541
+class can with Transformed Point Distances in mm: Mean: 9.9887 and Std: 12.6389
+class cat with Transformed Point Distances in mm: Mean: 12.3511 and Std: 9.0188
+class driller with Transformed Point Distances in mm: Mean: 10.9895 and Std: 7.2685
+class duck with Transformed Point Distances in mm: Mean: 10.1194 and Std: 7.6273
+class eggbox with Transformed Point Distances in mm: Mean: 42.1125 and Std: 40.7609
+class glue with Transformed Point Distances in mm: Mean: 17.2819 and Std: 14.2547
+class holepuncher with Transformed Point Distances in mm: Mean: 9.8167 and Std: 7.4592
+class ape with Transformed Symmetric Point Distances in mm: Mean: 5.8321 and Std: 4.4318
+class can with Transformed Symmetric Point Distances in mm: Mean: 6.2981 and Std: 6.6728
+class cat with Transformed Symmetric Point Distances in mm: Mean: 6.6677 and Std: 3.6840
+class driller with Transformed Symmetric Point Distances in mm: Mean: 6.8293 and Std: 2.8671
+class duck with Transformed Symmetric Point Distances in mm: Mean: 5.1933 and Std: 2.6031
+class eggbox with Transformed Symmetric Point Distances in mm: Mean: 7.6777 and Std: 4.9928
+class glue with Transformed Symmetric Point Distances in mm: Mean: 7.7640 and Std: 5.4682
+class holepuncher with Transformed Symmetric Point Distances in mm: Mean: 5.2543 and Std: 2.6445
+class ape with Mixed Transformed Point Distances in mm: Mean: 11.6183 and Std: 10.0541
+class can with Mixed Transformed Point Distances in mm: Mean: 9.9887 and Std: 12.6389
+class cat with Mixed Transformed Point Distances in mm: Mean: 12.3511 and Std: 9.0188
+class driller with Mixed Transformed Point Distances in mm: Mean: 10.9895 and Std: 7.2685
+class duck with Mixed Transformed Point Distances in mm: Mean: 10.1194 and Std: 7.6273
+class eggbox with Mixed Transformed Point Distances in mm: Mean: 7.6777 and Std: 4.9928
+class glue with Mixed Transformed Point Distances in mm: Mean: 7.7640 and Std: 5.4682
+class holepuncher with Mixed Transformed Point Distances in mm: Mean: 9.8167 and Std: 7.4592
+mAP: 0.9657
+ADD: 0.7222
+ADD-S: 0.9354
+5cm_5degree: 0.4146
+TranslationErrorMean_in_mm: 10.3595
+TranslationErrorStd_in_mm: 9.3645
+RotationErrorMean_in_degree: 15.1878
+RotationErrorStd_in_degree: 19.3160
+2D-Projection: 0.7522
+Summed_Translation_Rotation_Error: 54.2277
+ADD(-S): 0.8132
+AveragePointDistanceMean_in_mm: 15.5348
+AveragePointDistanceStd_in_mm: 13.6353
+AverageSymmetricPointDistanceMean_in_mm: 6.4396
+AverageSymmetricPointDistanceStd_in_mm: 4.1705
+MixedAveragePointDistanceMean_in_mm: 10.0407
+MixedAveragePointDistanceStd_in_mm: 8.0660

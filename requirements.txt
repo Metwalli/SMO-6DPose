@@ -1,0 +1,14 @@
+numpy==1.21.5
+cython==0.29.23
+opencv-python==4.5.5.64
+typeguard==2.9.1
+pyyaml==5.3.1
+plyfile==0.7.2
+imgaug==0.4.0
+tqdm==4.48.0
+progressbar2==3.53.1
+h5py==3.6.0
+tensorflow-estimator==2.5.0
+tensorboard==2.8.0
+tensorflow==2.8.0
+keras==2.8.0
