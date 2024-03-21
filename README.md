@@ -6,7 +6,7 @@ A deep learning model of 6D pose estimation for single and multi objects
 ## Getting Started
 
 ### Datasets
-You can download the dataset from efficientPose repo from [here](https://drive.google.com/file/d/13oki4nUEp3z_6Sl4NovhldB90HZ1w1c-/view?usp=drive_link)
+You can download the dataset from [here](https://drive.google.com/file/d/13oki4nUEp3z_6Sl4NovhldB90HZ1w1c-/view?usp=drive_link)
 
 ### Preparation
 Please clone the repository locally:
